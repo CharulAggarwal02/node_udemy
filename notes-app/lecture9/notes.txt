@@ -1,0 +1,1 @@
+File created using writeFileSync .Append data in notes.txt using appendFileSync
